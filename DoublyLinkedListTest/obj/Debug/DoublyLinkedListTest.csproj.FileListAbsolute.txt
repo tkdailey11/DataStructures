@@ -1,0 +1,15 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\DoublyLinkedListTest.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\DoublyLinkedListTest.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\DataStructures.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\DataStructures.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\DataStructures.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\obj\Debug\DoublyLinkedListTest.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\obj\Debug\DoublyLinkedListTest.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\DataStructures\DoublyLinkedListTest\obj\Debug\DoublyLinkedListTest.pdb
